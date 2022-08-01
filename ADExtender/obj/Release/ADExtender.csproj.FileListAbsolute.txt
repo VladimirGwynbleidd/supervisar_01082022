@@ -1,0 +1,5 @@
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\bin\Release\ADExtender.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\bin\Release\ADExtender.pdb
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\bin\Release\itextsharp.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\obj\Release\ADExtender.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\obj\Release\ADExtender.pdb

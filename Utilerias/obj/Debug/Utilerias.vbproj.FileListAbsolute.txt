@@ -1,0 +1,16 @@
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\Utilerias.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\Utilerias.pdb
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\Utilerias.xml
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\DocumentFormat.OpenXml.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\itextsharp.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\OpenXML.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\SharePoint.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\ControlErrores.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\bin\Debug\Encryption64.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\obj\Debug\Utilerias.vbprojResolveAssemblyReference.cache
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\obj\Debug\Utilerias.Resources.resources
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\obj\Debug\Utilerias.vbproj.GenerateResource.Cache
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\obj\Debug\Utilerias.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\obj\Debug\Utilerias.xml
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\Utilerias\obj\Debug\Utilerias.pdb

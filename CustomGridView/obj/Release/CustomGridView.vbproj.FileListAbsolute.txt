@@ -1,0 +1,8 @@
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\bin\Release\CustomGridView.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\bin\Release\CustomGridView.pdb
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\bin\Release\CustomGridView.xml
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Release\CustomGridView.Resources.resources
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Release\CustomGridView.vbproj.GenerateResource.Cache
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Release\CustomGridView.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Release\CustomGridView.xml
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Release\CustomGridView.pdb

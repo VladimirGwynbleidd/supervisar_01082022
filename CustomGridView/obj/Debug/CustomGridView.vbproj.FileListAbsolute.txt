@@ -1,0 +1,9 @@
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\bin\Debug\CustomGridView.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\bin\Debug\CustomGridView.pdb
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\bin\Debug\CustomGridView.xml
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Debug\CustomGridView.vbprojResolveAssemblyReference.cache
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Debug\CustomGridView.Resources.resources
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Debug\CustomGridView.vbproj.GenerateResource.Cache
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Debug\CustomGridView.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Debug\CustomGridView.xml
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\CustomGridView\obj\Debug\CustomGridView.pdb

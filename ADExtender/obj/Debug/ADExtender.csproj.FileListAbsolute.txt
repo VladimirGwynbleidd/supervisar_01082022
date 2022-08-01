@@ -1,0 +1,6 @@
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\bin\Debug\ADExtender.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\bin\Debug\ADExtender.pdb
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\bin\Debug\itextsharp.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\obj\Debug\ADExtender.csprojResolveAssemblyReference.cache
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\obj\Debug\ADExtender.dll
+C:\PROYECTOS CON\SUPERVISAR\JR 14072022\Cod\ADExtender\obj\Debug\ADExtender.pdb
